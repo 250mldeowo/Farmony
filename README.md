@@ -13,3 +13,7 @@ Actualmente, en la Universidad de Guanajuato se identificaron ciertas problemát
 * DICIVA
   * Para los estudios de morfología y crecimiento en plantas requieren esperar gran parte del semestre debido a que dicho es muy lento y recurren a usar modelos simples como lo son la cebolla y el frijol.
 * DCNE
+
+# Farmony Check
+![logocheck](https://i.imgur.com/T6iWY6d.png)
+Farmony check es una app que nos permite hacer monitoreo continuo de los diferentes parametros de crecimiento de nuestros cultivos como pH, temperatura, humedad y nos permite regularlos por medios de distintas metodologias sin necesidad de tener un personal especializado en el tema
