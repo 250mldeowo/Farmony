@@ -21,7 +21,9 @@ Esto se realiza a base de protocolos ya establecidos para los diferentes casos q
 Esta aplicacion recopila la informacion obtenida a traves dd varios sensores que se colocan en los sistemas de agua de los cultivos hidroponicos y luego lo envia a una computadora, la cual lo procesa y lo envia a los dispositivos con la aplicacion
 La aplicacion almacena y reporta estos datos dependiendo de la hortaliza
 ![fotohortalizas](https://i.imgur.com/0x85DyZ.png)
+
 Despues la informacion es dividida entre los distintos parametros y los enlista para poder seleccionarlos con facilidad
 ![fotoparametros](https://i.imgur.com/f7GwLMX.png)
+
 Al seleccionar algunos de los parametros te mostrara el valor actual y un valor ideal para que puedas ver en que estado se encuentra el cultivo, asi como botones con los protocolos a seguir para lograr estabilizar el valor del parametro observado
 ![fotoph](https://i.imgur.com/QJTHCdK.png)
